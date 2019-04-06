@@ -16,7 +16,7 @@ public class circulos extends Application{
 	private static int xMin = 40;
 	private static int xMax = 800;
 	private static int yMin = 50;
-	private static int yMax = 700;
+	private static int yMax = 800;
 	
 	
 	public void start(Stage primary) {
